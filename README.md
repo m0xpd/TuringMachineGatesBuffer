@@ -1,5 +1,5 @@
 # Turing Machine Gates Buffer
-This repository contains design details for an add-on circuit, which buffers the GATES Expander output port of [Music Thing Modular](https://www.musicthing.co.uk/)'s [Turing Machine](https://www.musicthing.co.uk/Turing-Machine/) random looping sequencer.
+This repository contains design details for an add-on circuit, which buffers signals from the GATES Expander output port of [Music Thing Modular](https://www.musicthing.co.uk/)'s [Turing Machine](https://www.musicthing.co.uk/Turing-Machine/) random looping sequencer.
 
 This buffer circuit was developed in response to my own requirement to obtain reliable output voltages from the Turing Machine's GATES expander port, 
 particularly when using the [Voltages expander](https://www.musicthing.co.uk/Turing-Voltages-Expander/) under my ['Tuning Strategy'](https://github.com/m0xpd/TuningStrategyForVoltages), 
