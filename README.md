@@ -5,7 +5,7 @@ This buffer circuit was developed in response to my own requirement to obtain re
 particularly when using the [Voltages expander](https://www.musicthing.co.uk/Turing-Voltages-Expander/) under my ['Tuning Strategy'](https://github.com/m0xpd/TuningStrategyForVoltages), 
 where small voltage errors immediately cause noticeable tuning problems.
 
-The buffer requires no modifications to the Turing Machine - it plugs onto the GATES and Power Headers, which it replaces. There is an option to add a spacer 
+The buffer requires no modifications to the Turing Machine - it plugs onto the GATES and Power headers, which it replaces. There is an option to add a spacer 
 and an M3 screw down to one of the tapped spacers on the Turing Machine, but this is only really required if you're 'on the road' with your setup.
 
 # Background
