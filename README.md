@@ -20,9 +20,11 @@ making the droop in the GATEx output voltages less surprising (although the 78L0
 Designing a buffer for the GATE outputs under these conditions required that the additional circuit did not rely on the either the board's 12V supply or the 
 magnitude of the GATEx signals. 
 
-Although a number of options were available, I chose to use CD4066s, controlled by the GATE signals, to switch a steady voltage to the VOLTAGES (or VOLTS) expander. 
+Although a number of design options were possible, I chose to use CD4066 "Analog Switches", inexpensive and familiar to the synth DIY community, controlled 
+by the GATE signals, to switch a steady voltage to the GATES expander port.
+
 In the Turing Machine design, the GATE signals are at 9V (the supply Voltage provided to the 4050 "Buffers"). I decided to drop this to 5V i) to give more clear 
-space between the failing supply and the voltage level aand ii) because it is consistent with the needs of my tuning strategy (where I already set the SCALE control 
+air between the failing supply and the voltage level and ii) because it is consistent with the needs of my [tuning strategy](https://github.com/m0xpd/TuningStrategyForVoltages) (where I already set the SCALE control 
 on VOLTAGES quite low). I couln't go much lower, because I still wanted the LEDs on VOLTAGES to light up with no modifications.
 
 Here's the resulting schematic (click for a full-size verison):
