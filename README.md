@@ -31,7 +31,7 @@ Here's my schematic (click for a full-size verison):
 <img width=75%, src="https://github.com/m0xpd/TuringMachineGatesBuffer/assets/3152962/2bc19e9c-d881-4f29-9488-9bacee3a887f">
 </p>  
 
-There are .sch and .brd files for the printed circuit board in the [PCB folder](https://github.com/m0xpd/TuringMachineGatesBuffer/tree/main/PCB), along with a BoM (in Eagle's usual format).
+There are .sch and .brd files (developed in EAGLE) for the printed circuit board in the [PCB folder](https://github.com/m0xpd/TuringMachineGatesBuffer/tree/main/PCB), along with a BoM (in EAGLE's usual format).
 
 # Specifications
 
