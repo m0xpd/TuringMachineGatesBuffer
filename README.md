@@ -29,3 +29,6 @@ Here's the resulting schematic (click for a full-size verison):
 
 There are .sch and .brd files for the printed circuit board in the [PCB folder](https://github.com/m0xpd/TuringMachineGatesBuffer/tree/main/PCB), along with a BoM (in Eagle's usual format).
 
+# License
+
+This design is published under a [Creative Commons BY-SA 4.0](https://github.com/m0xpd/TuringMachineGatesBuffer/blob/main/LICENSE.txt) License.
