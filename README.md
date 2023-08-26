@@ -7,8 +7,8 @@ This buffer circuit was developed in response to my own requirement to obtain re
 particularly when using the [Voltages expander](https://www.musicthing.co.uk/Turing-Voltages-Expander/) under my ['Tuning Strategy'](https://github.com/m0xpd/TuningStrategyForVoltages), 
 where voltage errors immediately show up as tuning errors.
 
-The buffer requires no modifications to the Turing Machine - it plugs onto the GATES and Power Headers (which it replaces). There is an option to add a spacer 
-and an M3 screw down to one of the tapped spacers on the Turing Machine, but this is only really required if you're 'on the road'.
+The buffer requires no modifications to the Turing Machine - it plugs onto the GATES and Power Headers, which it replaces. There is an option to add a spacer 
+and an M3 screw down to one of the tapped spacers on the Turing Machine, but this is only really required if you're 'on the road' with your setup.
 
 # Background
 
@@ -32,6 +32,13 @@ Here's the resulting schematic (click for a full-size verison):
 </p>  
 
 There are .sch and .brd files for the printed circuit board in the [PCB folder](https://github.com/m0xpd/TuringMachineGatesBuffer/tree/main/PCB), along with a BoM (in Eagle's usual format).
+
+# Specifications
+
+The buffer adds an additional xx mm of depth to the Turing Machine (making the Turing Machine + Buffer extend xx mm behind the front panel when a standard power 
+header is inserted into the buffer's power receptacle).
+
+The buffer draws xxmA of current from the +12V rail and nothing from the -12V rail. 
 
 # License
 
