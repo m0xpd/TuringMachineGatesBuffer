@@ -8,7 +8,7 @@ particularly when using the [Voltages expander](https://www.musicthing.co.uk/Tur
 where voltage errors immediately show up as tuning errors.
 
 The buffer requires no modifications to the Turing Machine - it plugs onto the GATES and Power Headers (which it replaces). There is an option to add a spacer 
-and an M3 screq down to one of the spacers on the Turing Machine, but this is only really required if you're 'on the road'.
+and an M3 screw down to one of the tapped spacers on the Turing Machine, but this is only really required if you're 'on the road'.
 
 I had noticed a tendency for the voltages produced at the GATES output of the Turing Machine to droop when a large number of bits were activated in 
 the 'gate' sequence. This problem was exacerbated when the [PULSES expander](https://www.musicthing.co.uk/Turing-Pulse-Expander/) was used. 
