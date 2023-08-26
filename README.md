@@ -7,10 +7,13 @@ This buffer circuit was developed in response to my own requirement to obtain re
 particularly when using the [Voltages expander](https://www.musicthing.co.uk/Turing-Voltages-Expander/) under my ['Tuning Strategy'](https://github.com/m0xpd/TuningStrategyForVoltages), 
 where voltage errors immediately show up as tuning errors.
 
+The buffer requires no modifications to the Turing Machine - it plugs onto the GATES and Power Headers (which it replaces). There is an option to add a spacer 
+and an M3 screq down to one of the spacers on the Turing Machine, but this is only really required if you're 'on the road'.
+
 I had noticed a tendency for the voltages produced at the GATES output of the Turing Machine to droop when a large number of bits were activated in 
-the 'gate' sequence. This problaem was exacerbated when the [PULSES expander](https://www.musicthing.co.uk/Turing-Pulse-Expander/) was used. 
-The Turing Machine's 12V power line '+12V_BACK' was observed to droop by over 1V under such loading conditions, explaining the droop in the GATEx 
-output voltages.
+the 'gate' sequence. This problem was exacerbated when the [PULSES expander](https://www.musicthing.co.uk/Turing-Pulse-Expander/) was used. 
+The Turing Machine's 12V power line '+12V_BACK' was observed to droop by over 1V under such loading conditions, making the droop in the GATEx 
+output voltages less surprising (although the 78L09 supply to the CD4050's *should* have prevented this - see below).
 
 Designing a buffer for the GATE outputs under these conditions required that the additional circuit did not rely on the either the board's 12V supply or the 
 magnitude of the GATEx signals. Although a number of options were available, I chose to use CD4066s, controlled by the GATE signals, to switch a steady voltage 
@@ -23,4 +26,6 @@ Here's the resulting schematic (click for a full-size verison):
 <p width=100%, align="center">
 <img width=75%, src="https://github.com/m0xpd/TuringMachineGatesBuffer/assets/3152962/2bc19e9c-d881-4f29-9488-9bacee3a887f">
 </p>  
+
+There are .sch and .brd files for the printed circuit board in the [PCB folder](https://github.com/m0xpd/TuringMachineGatesBuffer/tree/main/PCB), along with a BoM (in Eagle's usual format).
 
