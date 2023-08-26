@@ -14,8 +14,8 @@ and an M3 screw down to one of the tapped spacers on the Turing Machine, but thi
 
 I had noticed a tendency for the voltages produced at the GATES output of the Turing Machine to droop when a large number of bits were activated in 
 the 'gate' sequence. This problem was exacerbated when the [PULSES expander](https://www.musicthing.co.uk/Turing-Pulse-Expander/) was used. 
-The Turing Machine's power line '+12V_BACK' was observed to droop by over 1V under such loading conditions, making the droop in the GATEx 
-output voltages less surprising (although the 78L09 supply to the CD4050's *should* have prevented this - see below).
+The Turing Machine's power line '+12V_BACK' was observed to droop by over 1V under such loading conditions (when no such droop was on the system 12V power supply), 
+making the droop in the GATEx output voltages less surprising (although the 78L09 supply to the CD4050's *should* have prevented this - see below).
 
 Designing a buffer for the GATE outputs under these conditions required that the additional circuit did not rely on the either the board's 12V supply or the 
 magnitude of the GATEx signals. 
