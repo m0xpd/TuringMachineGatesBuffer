@@ -35,7 +35,7 @@ There are .sch and .brd files for the printed circuit board in the [PCB folder](
 
 # Specifications
 
-The buffer adds an additional xx mm of depth to the Turing Machine (making the Turing Machine + Buffer extend xx mm behind the front panel when a standard power 
+The buffer adds an additional xx mm of depth to the Turing Machine (making the Turing Machine & Buffer extend xx mm behind the front panel when a standard power 
 header is inserted into the buffer's power receptacle).
 
 The buffer draws xxmA of current from the +12V rail and nothing from the -12V rail. 
