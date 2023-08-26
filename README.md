@@ -24,10 +24,9 @@ Although a number of design options were possible, I chose to use CD4066 "Analog
 by the GATE signals, to switch a steady voltage to the GATES expander port.
 
 In the Turing Machine design, the GATE signals are at 9V (the supply Voltage provided to the 4050 "Buffers"). I decided to drop this to 5V i) to give more clear 
-air between the failing supply and the voltage level and ii) because it is consistent with the needs of my [tuning strategy](https://github.com/m0xpd/TuningStrategyForVoltages) (where I already set the SCALE control 
-on VOLTAGES quite low). I couln't go much lower, because I still wanted the LEDs on VOLTAGES to light up with no modifications.
+air between the failing supply and the voltage level and ii) because it is consistent with the needs of my [tuning strategy](https://github.com/m0xpd/TuningStrategyForVoltages) (where I already set the SCALE control on VOLTAGES quite low). I couln't go much lower, because I still wanted the LEDs on VOLTAGES to light up with no modifications.
 
-Here's the resulting schematic (click for a full-size verison):
+Here's my schematic (click for a full-size verison):
 
 <p width=100%, align="center">
 <img width=75%, src="https://github.com/m0xpd/TuringMachineGatesBuffer/assets/3152962/2bc19e9c-d881-4f29-9488-9bacee3a887f">
