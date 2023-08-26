@@ -1,0 +1,17 @@
+Partlist exported from /Users/pauldarlington/Documents/EAGLE/projects/Voltages Buffer/TuringGatesBuffer.sch at 26/08/2023 14:11
+
+Part Value Device          Package        Description                          MF MPN         OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+C1   0.1u  C-EU050-025X075 C050-025X075   CAPACITOR, European symbol                                               29         C          
+C2   22u   CPOL-EUE2.5-5   E2,5-5         POLARIZED CAPACITOR, European symbol                                     16         C          
+C3   10u   CPOL-EUE2.5-5   E2,5-5         POLARIZED CAPACITOR, European symbol                                     16         C          
+C4   1u    CPOL-EUE2.5-5   E2,5-5         POLARIZED CAPACITOR, European symbol                                     16         C          
+C5   0.1u  C-EU050-025X075 C050-025X075   CAPACITOR, European symbol                                               29         C          
+C6   0.1u  C-EU050-025X075 C050-025X075   CAPACITOR, European symbol                                               29         C          
+C7   0.1u  C-EU050-025X075 C050-025X075   CAPACITOR, European symbol                                               29         C          
+IC1  78L05 78LXX           78LXX          VOLTAGE REGULATOR                                                        6                     
+IC2  4066N 4066N           DIL14          Quad bilateral ANALOG SWITCH                                             1                     
+IC3  4066N 4066N           DIL14          Quad bilateral ANALOG SWITCH                                             1                     
+JP1        PINHD-2X8       2X08           PIN HEADER                                                               6                     
+JP2        PINHD-2X8       2X08           PIN HEADER                                                               6                     
+JP3        PINHD-2X5       2X05           PIN HEADER                                                               35                    
+X2   2510- 2510-           PAK100/2500-10 3M (TM) Pak 100 4-Wall Header        3M 2510-6002UB 9838244    46F4725   0                     
