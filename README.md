@@ -38,7 +38,7 @@ There are .sch and .brd files (developed in EAGLE) for the printed circuit board
 The buffer adds an additional xx mm of depth to the Turing Machine (making the Turing Machine & Buffer extend xx mm behind the front panel when a standard power 
 header is inserted into the buffer's power receptacle).
 
-The buffer draws xxmA of current from the +12V rail and nothing from the -12V rail. 
+The buffer draws xxmA of current from the +12V rail and nothing from the 5V or -12V rails. 
 
 # License
 
