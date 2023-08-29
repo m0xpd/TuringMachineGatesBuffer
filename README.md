@@ -36,7 +36,7 @@ There are .sch and .brd files (developed in EAGLE) for the printed circuit board
 # Specifications
 
 The buffer adds an additional 14 mm of depth to the Turing Machine, making the Turing Machine & Buffer extend 50 mm behind the front panel when a standard power 
-header is inserted into the buffer's power receptacle (55mm if the power cable's IDC header has a locking tab).
+header is inserted into the buffer's power receptacle (55mm if the power cable's IDC header has a strain relief fitted).
 
 The buffer draws 2mA of current from the +12V rail and nothing from the 5V or -12V rails. 
 
