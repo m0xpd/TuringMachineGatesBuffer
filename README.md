@@ -6,7 +6,7 @@ particularly when using the [Voltages expander](https://www.musicthing.co.uk/Tur
 where small voltage errors immediately cause noticeable tuning problems.
 
 The buffer requires no modifications to the Turing Machine - it plugs onto the GATES and Power headers, which it replaces. There is an option to add a spacer 
-and an M3 screw down to one of the tapped spacers on the Turing Machine, for mechanical stability, which is strongly recommended.
+and an M3 screw down to one of the tapped spacers on the Turing Machine for mechanical stability, which is strongly recommended.
 
 # Background
 
