@@ -2,8 +2,9 @@
 This repository contains design details for an add-on circuit, which buffers signals from the GATES Expander port of [Music Thing Modular](https://www.musicthing.co.uk/)'s [Turing Machine](https://www.musicthing.co.uk/Turing-Machine/) random looping sequencer.
 
 <p width=100%, align="center">
-<img width=50%, src="https://github.com/m0xpd/TuringMachineGatesBuffer/assets/3152962/de4fbb2f-83bd-417f-ac63-9a617ba7719b">
+<img width=50%, src="https://github.com/m0xpd/TuringMachineGatesBuffer/assets/3152962/109dcb47-1c97-4247-be3b-597dcdc7490a">
 </p>
+
 
 This buffer circuit was developed in response to my own requirement to obtain reliable output voltages from the Turing Machine's GATES expander port, 
 particularly when using the [Voltages expander](https://www.musicthing.co.uk/Turing-Voltages-Expander/) under my ['Tuning Strategy'](https://github.com/m0xpd/TuningStrategyForVoltages), 
@@ -43,8 +44,10 @@ The buffer adds an additional 14 mm of depth to the Turing Machine, making the T
 header is inserted into the buffer's power receptacle (55mm if the power cable's IDC header has a strain relief fitted).
 
 <p width=100%, align="center">
-<img width=40%, src="https://github.com/m0xpd/TuringMachineGatesBuffer/assets/3152962/53251c14-4d1b-4267-aedc-239dabb75428">
+<img width=40%, src="https://github.com/m0xpd/TuringMachineGatesBuffer/assets/3152962/64cf4f30-6157-4e81-8c3e-cbabc9502a54">
 </p> 
+
+
 
 The buffer draws 2mA of current from the +12V rail and nothing from the 5V or -12V rails. 
 
