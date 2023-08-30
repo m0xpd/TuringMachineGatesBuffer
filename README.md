@@ -44,8 +44,9 @@ The buffer adds an additional 14 mm of depth to the Turing Machine, making the T
 header is inserted into the buffer's power receptacle (55mm if the power cable's IDC header has a strain relief fitted).
 
 <p width=100%, align="center">
-<img width=40%, src="https://github.com/m0xpd/TuringMachineGatesBuffer/assets/3152962/64cf4f30-6157-4e81-8c3e-cbabc9502a54">
+<img width=40%, src="https://github.com/m0xpd/TuringMachineGatesBuffer/assets/3152962/b8fff5dc-1dda-4822-b70a-1ef8dd74d57b">
 </p> 
+
 
 
 
