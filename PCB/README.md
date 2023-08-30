@@ -7,8 +7,9 @@ There is a .sch and a .brd file and a Bill of Materials.
 The prototype was manufactured by [JCLPCB](https://jlcpcb.com/) (usual disclaimer), who did a great job. The populated  board is seen below from both sides:
 
 <p width=100%, align="center">
-<img width=75%, src="https://github.com/m0xpd/TuringMachineGatesBuffer/assets/3152962/bef1898a-0367-481b-89b8-813649d72350">
+<img width=75%, src="https://github.com/m0xpd/TuringMachineGatesBuffer/assets/3152962/6d882e3e-6968-4a57-bcb7-00e3836b4c9b">
 </p>
+
 
 The BoM lists JP1, JP2 and JP3 as PIN HEADERS. It will be seen in the image above that JP1 and JP3 are populated by female headers (sockets) on the underside 
 of the board.
