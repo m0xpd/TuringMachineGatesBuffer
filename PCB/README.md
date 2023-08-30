@@ -16,7 +16,7 @@ of the board.
 JP1 is a 2 * 8, 0.1 inch pitch socket (which mates with the Turing Machine's GATES expander header) and JP3 is a 2 * 5, 0.1 inch pitch socket, which mates 
 with the Turing Machine's power connecter.
 
-[I cut these from 2 * 40 socket strips, rather than keep a stock of smaller size sockets - it is cheaper and easier in 'stock control'.]
+[I cut these from 2 * 40 socket strips, rather than keep smaller size sockets - it is cheaper and easier in 'stock control'.]
 
 JP2 is a male 2 * 8 header, mounted on the top (component) side of the board, which becomes the new GATES expander.
 
