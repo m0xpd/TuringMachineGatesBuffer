@@ -33,8 +33,11 @@ air between the failing supply and the voltage level and ii) because it is consi
 Here's my schematic (click for a full-size version):
 
 <p width=100%, align="center">
-<img width=75%, src="https://github.com/m0xpd/TuringMachineGatesBuffer/assets/3152962/2bc19e9c-d881-4f29-9488-9bacee3a887f">
+<img width=75%, src="https://github.com/m0xpd/TuringMachineGatesBuffer/assets/3152962/4741e830-8d09-4de8-bd61-afb51a9a6141">
 </p>  
+
+
+
 
 There are .sch and .brd files (developed in EAGLE) for the printed circuit board in the [PCB folder](https://github.com/m0xpd/TuringMachineGatesBuffer/tree/main/PCB), along with a BoM (in EAGLE's usual format).
 
